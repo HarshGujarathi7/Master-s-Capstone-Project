@@ -18,11 +18,11 @@ This project focuses on predicting transcription factor (TF) binding sites using
 ## Installation
 Clone the repository and install dependencies:
 
-bash
+```bash
 git clone https://github.com/HarshGujarathi7/Master-s-Capstone-Project.git
 cd tf-binding-prediction
 pip install -r requirements.txt
-
+```
 
 ## Usage
 Train and evaluate models:
