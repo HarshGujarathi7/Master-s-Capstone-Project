@@ -57,4 +57,4 @@ Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, reach out at *hkg22@scarletmail.rutgers.edu@example.com*.
+For questions, reach out at *hkg22@scarletmail.rutgers.edu*.
